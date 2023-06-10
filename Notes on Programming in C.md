@@ -150,7 +150,7 @@ i = i + 1;        /* Add one to i */
                        i=i+1;
 ```
 
-Don't augh now, wait until you see it in real life.
+Don't laugh now, wait until you see it in real life.
 
 Avoid cute typography in comments, avoid big blocks of comments except perhaps before vital sections like the declaration of the central data structure (comments on data are usually much more helpful than on algorithms); basically, avoid comments. If your code needs a comment to be understood, it would be better to rewrite it so it's easier to understand. Which brings us to...
 
